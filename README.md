@@ -1,4 +1,6 @@
-# 大肥鱼一键包（SnowLuma / NapCat 可选版）
+﻿# 大肥鱼一键包（SnowLuma / NapCat 可选版）
+
+[简体中文](README.md) | [English](README.en.md)
 
 把 DeepSeek 养进 QQ，双击一个 exe 就能装好。
 
@@ -14,7 +16,7 @@
 
 - 上游项目：[Jack-Cherish/DSQQ](https://github.com/Jack-Cherish/DSQQ)
 - 改版发布者：[maobuben](https://github.com/maobuben)
-- 本仓库：[maobuben/DSQQ-SnowLuma](https://github.com/maobuben/DSQQ-SnowLuma)
+- 本仓库：[maobuben/DFYQQ](https://github.com/maobuben/DFYQQ)
 
 原项目未声明开源许可证；原 DSQQ 代码的版权归 Jack-Cherish 所有。本仓库是带署名的个人非商业改版，不改变原代码的版权归属。第三方组件的许可证见 [NOTICE.md](NOTICE.md)。
 
@@ -326,6 +328,7 @@ node --test tests/test_web.cjs
 ### 发布
 
 把 `dist/大肥鱼一键包.exe` 改名为 `DaFeiYu-OneClick-v1.3.1-SnowLuma.exe`，传到 GitHub Release，再把本文「下载」一节的文件名和 sha256 更新一下。exe 不进 git 仓库。
+
 
 
 
