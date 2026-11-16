@@ -100,7 +100,7 @@ The default build pre-installs plugins and memes and produces a larger exe. `--n
 
 This repository is a modified edition of [Jack-Cherish/DSQQ](https://github.com/Jack-Cherish/DSQQ). The original project did not declare an open-source license; the copyright of the original DSQQ code remains with Jack-Cherish. This repository is a credited, personal, non-commercial derivative and does not change the copyright of the original code.
 
-The modifications and new files authored by maobuben (including the SnowLuma integration, redesigned installer UI, documentation and build changes) are released under the MIT License. See [LICENSE](LICENSE).
+The modifications and new files authored by maobuben (including the SnowLuma integration, redesigned installer UI, documentation and build changes) are released under the MIT License. See [LICENSE](LICENSE); the scope note for the original upstream code is in [LICENSE-SCOPE.md](LICENSE-SCOPE.md).
 
 Third-party components keep their own licenses:
 

@@ -36,3 +36,9 @@ docs/superpowers/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# 本地凭据/临时文件，绝不入库
+*credential*
+*git-credentials*
+*.tmp
+tmpgit*

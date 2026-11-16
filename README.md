@@ -221,7 +221,7 @@ SnowLuma：先在桌面 QQ 里确认小号还在线；不在就重新登录，�
 
 本仓库是在 [Jack-Cherish/DSQQ](https://github.com/Jack-Cherish/DSQQ) 基础上制作的改版。原项目未声明开源许可证，原 DSQQ 代码的版权归 Jack-Cherish 所有；本仓库是带署名的个人非商业改版，不改变原代码的版权归属。
 
-由 maobuben 新编写或修改的部分（SnowLuma 集成、安装器界面、文档和构建脚本改动）采用 MIT 许可证，详见 [LICENSE](LICENSE)。第三方组件（AstrBot AGPL-3.0、NapCat、SnowLuma、大肥鱼配置包 MIT、Python PSF）的版权与许可证归各自作者所有，详见 [NOTICE.md](NOTICE.md)。SnowLuma 不随本仓库分发，安装时从官方地址或镜像下载。
+由 maobuben 新编写或修改的部分（SnowLuma 集成、安装器界面、文档和构建脚本改动）采用 MIT 许可证，详见 [LICENSE](LICENSE)；原上游代码的范围说明见 [LICENSE-SCOPE.md](LICENSE-SCOPE.md)。第三方组件（AstrBot AGPL-3.0、NapCat、SnowLuma、大肥鱼配置包 MIT、Python PSF）的版权与许可证归各自作者所有，详见 [NOTICE.md](NOTICE.md)。SnowLuma 不随本仓库分发，安装时从官方地址或镜像下载。
 
 人设文字、立绘和表情包素材只供个人学习和自用。**请勿把本包或其中素材用于商业用途、二次售卖或再分发。** 素材的权利人如果希望移除，请提 Issue 联系。
 
