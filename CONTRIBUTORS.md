@@ -2,7 +2,7 @@
 
 感谢以下贡献者：
 
-1. [deepseek-ai](https://github.com/deepseek-ai) — AI 辅助开发、代码整理、文档与测试协作。
+1. [deepseek-ai](https://github.com/deepseek-ai) — 提供模型能力与 AI 辅助开发支持，参与代码整理、文档与测试协作。
 2. [maobuben](https://github.com/maobuben) — 改版作者、发布者与维护者。
 
 ## 上游

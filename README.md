@@ -1,4 +1,4 @@
-﻿# 大肥鱼一键包（SnowLuma / NapCat 可选版）
+# 大肥鱼一键包（SnowLuma / NapCat 可选版）
 
 [简体中文](README.md) | [English](README.en.md)
 
